@@ -1,5 +1,3 @@
-use std::thread::current;
-
 use crate::stack::Stack;
 
 #[cfg(test)]

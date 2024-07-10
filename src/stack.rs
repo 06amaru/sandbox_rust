@@ -71,7 +71,7 @@ impl<T> Stack<T> {
         }
 
         iterator
-    }
+    } 
 }
 
 struct IntoIter<T>(Stack<T>);
